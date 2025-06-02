@@ -10,17 +10,27 @@ I would be more than glad to walk you through my work via a call, so please feel
 
 ## Overview
 
-Over the course of my UI/UX design internship, I was tasked with 
+Throughout my UI/UX design internship at GovTech Singapore, I was entrusted with a number of responsibilities which included assisting with user research and usability testing sessions, synthesising research findings through tagging and analysis, and identifying user insights and pain points.
+
+In addition, I supported the design team by creating mockups for new features and refining existing interface components to improve usability and consistency across products.
+
+This internship deepened my understanding of user-centered design within the public sector and gave me first-hand experience collaborating across product, research, and design functions to deliver meaningful digital solutions. 
 
 ## SupportGoWhere
 
 ### Context
 
+### Problem
 
+### Contributions
 
 ## GatherSG
 
-Test
+### Context
+
+### Problem
+
+### Contributions
 
 ## Reflections
 
