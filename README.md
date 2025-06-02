@@ -14,8 +14,6 @@ Throughout my UI/UX design internship at GovTech Singapore, I was entrusted with
 
 In addition, I supported the design team by creating mockups for new features and refining existing interface components to improve usability and consistency across products.
 
-This internship deepened my understanding of user-centered design within the public sector and gave me first-hand experience collaborating across product, research, and design functions to deliver meaningful digital solutions. 
-
 ## SupportGoWhere
 
 ### Context
