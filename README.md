@@ -48,3 +48,7 @@ The team's current focus is in facilitating a seamless experience that aids user
 My role in this was to assist my supervisor and the team by handling tickets related to the redesign of current features and/or components, as well as coming up with new features and/or components should the need arise. The figure below shows the rough workflow and design process I go through each time when handling such tasks.
 
 <img width="831" alt="Screenshot 2025-06-05 at 5 55 49 PM" src="https://github.com/user-attachments/assets/c5e045b1-203f-480e-8faf-3fc7f1d2d481" />
+
+## Reflections
+
+This internship granted me not just the opportunity to gain hands-on real-world experience, but also forced me to step out of my comfort zone and push myself to improve myself in terms of my UI/UX design knowledge and skills. I am extremely thankful to be part of such a professional setting where I can receive guidance from my peers and mentors within such a nurturing and conducive environment. This has greatly helped to further solidify my interest and passion in this field.
